@@ -22,7 +22,7 @@ document.getElementById('btn-submit').addEventListener('click',function(){
     const passwordFeild =document.getElementById('user-password')
     const password = passwordFeild.value
     // varifay email and password
-    if(email === 'sona@bap.com' && password === 'secret' ){
+    if(email === 'imon@saha.com' && password === 'imon' ){
         window.location.href='Bank.html'
     }
     else{
